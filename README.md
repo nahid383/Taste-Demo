@@ -1,4 +1,4 @@
 # Taste-Demo
 My first git repository
 <br>
-Author- Nahid Hasan
+Author- Md Nahid Hasan
